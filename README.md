@@ -1,5 +1,6 @@
 ### Hi there 👋, My name is Roman
 #### I am PHP - programmer.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232756F7&multiline=true&height=64&lines=Read-Eval-Print-Loop)](https://git.io/typing-svg)
 I made this project just for fun and learning
 
 Skills: Laravel / PHP / JS / HTML / CSS
