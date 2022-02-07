@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ### Hi there 👋, My name is Roman
 #### I am PHP - programmer.
 I made this project just for fun and learning
